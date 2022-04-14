@@ -1,1 +1,1 @@
-# Meta-Gradient-Augmentation-MetaGA-
+# The implementation of the MetaGA method
