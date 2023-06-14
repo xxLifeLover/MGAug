@@ -1,5 +1,3 @@
-Code should be only used by the reviewers.
-
 ## MBML
 
 ```python
