@@ -64,3 +64,8 @@ python test.py --net Conv4 --alg FOMAML --dataset CUB --num_shot 1 --num_way 5
 * Pytorch >= 1.2
 * [Higher](https://github.com/facebookresearch/higher) 
 * [Torchmeta](https://github.com/tristandeleu/pytorch-meta)
+
+## Citation
+```python
+
+```
